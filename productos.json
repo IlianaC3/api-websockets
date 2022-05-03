@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Audifonos",
+    "price": "5000",
+    "thumbnail": "https://cdn.pixabay.com/photo/2020/05/14/09/54/earphones-5193970_1280.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Celular",
+    "price": "50000",
+    "thumbnail": "https://cdn.pixabay.com/photo/2016/12/19/08/39/mobile-phone-1917737_1280.jpg"
+  }
+]
